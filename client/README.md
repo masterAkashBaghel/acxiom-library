@@ -1,31 +1,48 @@
-# React & Tailwind CSS Starter Pack
+ Acxiom Fullstack Campus Placement Test
+Project Overview
+This repository contains my solutions and implementations for the Acxiom Fullstack Campus Placement Drive Test. The test covers various aspects of full-stack development, including front-end, back-end, and database components.
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+Test Structure
 
-## Usage
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+Frontend:
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
+Implementations and solutions for front-end tasks are organized in the frontend directory.
+Technologies used: React, JavaScript, HTML, CSS.
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
+Backend:
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
+Backend solutions and server-side code are located in the backend directory.
+Technologies used: Node.js, Express.
+Database:
 
-## Contributing
+Database-related code, schemas, and queries are found in the database directory.
+Database technology used: MongoDB.
+Instructions
+For each section of the test, please refer to the respective directory and documentation for instructions on running and testing the solutions.
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+Setup Instructions
+Clone the Repository:
+
+bash
+Copy code
+git clone https://github.com/masterAkashBaghel/acxiom-library
+cd acxiom-fullstack-campus-test
+Install Dependencies:
+
+Navigate to the frontend and backend directories and run:
+bash
+Copy code
+npm install
+Run the Applications:
+
+Follow instructions in the frontend and backend directories for starting the applications.
+Database Setup:
+
+If applicable, follow instructions in the database directory for setting up and seeding the database.
+Contact
+For any questions or clarifications regarding the solutions or the test, feel free to contact me:
+
+Name:Akash Kumar Singh
+Email:akashashokbaghel@gmail.com
