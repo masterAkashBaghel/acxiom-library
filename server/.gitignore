@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Compiled binary addons
+build/Release/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+ 
+
+ 
+
+# dotenv environment variables file
+.env
+
+# Yarn integrity file
+.yarn-integrity
+
+# VS Code settings
+.vscode/
+
+# Node.js cache files
+.npm/
+.npmrc
+
+ 
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+ 
+
+# Editor directories
+.idea/
+.vscode/
+
+# Local npm modules
+/node_modules/
+ 
+.env
